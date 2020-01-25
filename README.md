@@ -24,8 +24,8 @@ Aplicação native, teste para entrar na empresa [Reload](https://reload.co/) co
 
 ### Exemplo da página 
 <h1 align="center">
-    <img alt="Pagina finalizada" src="https://i.ibb.co/vH08kYz/1.jpg" >
-    <img alt="Pagina finalizada" src="https://i.ibb.co/ZBtj4fk/2.jpg" >
+    <img alt="Pagina finalizada" src="https://i.ibb.co/vH08kYz/1.jpg" width="500px"  >
+    <img alt="Pagina finalizada" src="https://i.ibb.co/ZBtj4fk/2.jpg" width="500px"  >
 </h1>
 
 ### Tutorial: Como rodar o projeto?
